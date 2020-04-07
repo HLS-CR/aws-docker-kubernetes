@@ -1,6 +1,4 @@
-# udacity-cloud-c03
-
-## Installing Udagram Project 3 - Microservices at Scale
+## Installing Udagram Project - Microservices at Scale
 
 The folder udacity-c3-feed-service-b contains identical code to udacity-c3-feed-service. It was added so that docker images show a different version from udacity-c3-feed-service. It is only needed for local testing purposes and so that we can run two docker containers simultaneously for A/B deployments.
 
